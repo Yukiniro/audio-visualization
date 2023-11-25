@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "death-note";
+    src: url("/fonts/Death_Note_Font_by_Karlibell22.ttf") format("opentype"),
+}
